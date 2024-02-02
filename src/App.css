@@ -1,0 +1,112 @@
+.header{
+    background-color: #F2AB35;
+    
+}
+.logo
+{
+    width: 150px;
+}
+.logo img
+ {
+     width: 100%;
+}
+.search input{
+    border-radius: 5px;
+    border: none;
+    margin-left: 30%;
+    height: 40px;
+}
+.button input{
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    margin-left: 43%;
+    width: 120px;
+    background-color: #2A55E5;
+    color: white;
+}
+.cart{
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+.main-frame{
+    height: 95vh;
+    overflow: auto;
+}
+.nav-list{
+  padding: 15px;
+  text-transform: uppercase;
+  background-color: skyblue;
+  border: 1px solid white;
+}
+
+.product-box {
+    height: 95vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.btn1{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.img1{
+    width: 100%;
+}
+.btn2{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.btn3
+{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.card-img{
+    width: 300px;
+    height: 250px;
+}
+.card-body
+{
+  padding: 0px !important;
+}
+.row>* 
+{
+    padding: 0px!important;
+}
+.proimg{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.proimg img {
+    width: 100%;
+}
+.tempimg{
+    margin-top: 150px;
+}
+.tempimg img{
+    width: 500px;
+    height: 400px;
+}
+.prodis
+{
+    margin-top: 100px;
+    color: black;
+}
